@@ -15,5 +15,5 @@ answer = false
       else
       end
     end
-    print answer
+    return answer
 end
