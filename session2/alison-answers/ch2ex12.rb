@@ -50,4 +50,4 @@ class Fraction
   end
 end
 
-#Used solution to tidy this up
+#Used solution to tidy this up.
